@@ -7,3 +7,6 @@ terceta linea viernes 25 junio
 
 
 19 de agosto, linea en la rama experimental
+
+
+28 agosto, una actualizacion, agregue linea
